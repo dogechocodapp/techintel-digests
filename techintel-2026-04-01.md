@@ -9,19 +9,19 @@
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **126.574** stars (+19.869 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
+📊 **126.588** stars (+19.869 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
 🔥 **RISING STAR** — 7 días trending
 
 ### [obra/superpowers](https://github.com/obra/superpowers)
 An agentic skills framework & software development methodology that works.
 
-📊 **128.112** stars (+18.021 today) | 🔤 Shell | 🏷️ core-stack
+📊 **128.116** stars (+18.021 today) | 🔤 Shell | 🏷️ core-stack
 🔥 **RISING STAR** — 7 días trending
 
 ### [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
-📊 **55.218** stars (+13.560 today) | 🔤 Python | 🏷️ core-stack
+📊 **55.222** stars (+13.560 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 7 días trending
 
 ### [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
@@ -33,31 +33,31 @@ AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark
 ### [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
 real time face swap and one-click video deepfake with only a single image
 
-📊 **87.017** stars (+6693 today) | 🔤 Python | 🏷️ dev-tools, content-automation
+📊 **87.022** stars (+6693 today) | 🔤 Python | 🏷️ dev-tools, content-automation
 🔥 **RISING STAR** — 5 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **20.308** stars (+7539 today) | 🔤 Python | 🏷️ core-stack
+📊 **20.312** stars (+7539 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 7 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **18.972** stars (+6933 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **18.978** stars (+6933 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 TradingAgents: Multi-Agents LLM Financial Trading Framework
 
-📊 **45.178** stars (+4848 today) | 🔤 Python | 🏷️ core-stack
+📊 **45.179** stars (+4848 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 7 días trending
 
 ### [pascalorg/editor](https://github.com/pascalorg/editor)
 Create and share 3D architectural projects.
 
-📊 **8772** stars (+4584 today) | 🔤 TypeScript | 🏷️ game-dev
+📊 **8773** stars (+4584 today) | 🔤 TypeScript | 🏷️ game-dev
 🔥 **RISING STAR** — 5 días trending
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
@@ -75,13 +75,13 @@ Developer tools for AI crypto agents  🛠️ Build apps with DeFi trading, DEX 
 ### [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 practice made claude perfect
 
-📊 **28.551** stars (+2407 today) | 🔤 HTML | 🏷️ core-stack, dev-tools
+📊 **28.559** stars (+2407 today) | 🔤 HTML | 🏷️ core-stack, dev-tools
 🔥 **RISING STAR** — 3 días trending
 
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **12.904** stars (+2390 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **12.913** stars (+2390 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 3 días trending
 
 ### [ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s)
@@ -108,7 +108,7 @@ Free, open source crypto trading bot
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-📊 **44.072** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **44.073** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -128,7 +128,7 @@ A powerful coding agent toolkit providing semantic retrieval and editing capabil
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
-📊 **17.917** stars | 🔤 JavaScript | 🏷️ core-stack | 🔎 query: "claude code agent skills"
+📊 **17.918** stars | 🔤 JavaScript | 🏷️ core-stack | 🔎 query: "claude code agent skills"
 
 ### [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot)
 Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -138,12 +138,12 @@ Open source software that helps you create and deploy high-frequency crypto trad
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-📊 **15.738** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
+📊 **15.739** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-📊 **15.573** stars | 🔤 Python | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **15.574** stars | 🔤 Python | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)
 A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
@@ -158,7 +158,7 @@ Claude Code Skills and 1000+ agent skills from official dev teams and the commun
 ### [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp)
 Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 
-📊 **7898** stars | 🔤 C# | 🏷️ core-stack, dev-tools, game-dev | 🔎 query: "unity llm"
+📊 **7899** stars | 🔤 C# | 🏷️ core-stack, dev-tools, game-dev | 🔎 query: "unity llm"
 
 ### [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot)
 Free open source crypto trading bot to automate AI, Grid, DCA and TradingView strategies on Binance, Hyperliquid and 15+ exchanges, with a simple interface.
@@ -202,16 +202,16 @@ The Apify MCP server enables your AI agents to extract data from social media, s
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 12.904 — 3 días — core-stack, frontend
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 33.081 — 4 días — general
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 18.972 — 4 días — core-stack
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — ⭐ 28.551 — 3 días — core-stack, dev-tools
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 20.308 — 7 días — core-stack
-- [obra/superpowers](https://github.com/obra/superpowers) — ⭐ 128.112 — 7 días — core-stack
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 75.500 — 3 días — general
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 12.913 — 3 días — core-stack, frontend
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 33.085 — 4 días — general
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 18.978 — 4 días — core-stack
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) — ⭐ 28.559 — 3 días — core-stack, dev-tools
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 20.312 — 7 días — core-stack
+- [obra/superpowers](https://github.com/obra/superpowers) — ⭐ 128.116 — 7 días — core-stack
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 75.502 — 3 días — general
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — ⭐ 16.881 — 7 días — core-stack
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) — ⭐ 87.017 — 5 días — dev-tools, content-automation
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — ⭐ 55.218 — 7 días — core-stack
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) — ⭐ 87.022 — 5 días — dev-tools, content-automation
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) — ⭐ 55.222 — 7 días — core-stack
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -219,10 +219,10 @@ The Apify MCP server enables your AI agents to extract data from social media, s
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 33.081 (+8327) — Python
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 33.085 (+8327) — Python
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) — ⭐ 20.693 (+6272) — TypeScript
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) — ⭐ 339.610 (+873) — Unknown
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 75.500 (+865) — Python
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) — ⭐ 339.614 (+873) — Unknown
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 75.502 (+865) — Python
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-01T00:16:48.780Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-01T00:22:01.979Z*
