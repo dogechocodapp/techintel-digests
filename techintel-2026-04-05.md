@@ -9,13 +9,13 @@
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **20.292** stars (+14.763 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **20.294** stars (+14.763 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 4 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **26.169** stars (+9566 today) | 🔤 Python | 🏷️ core-stack
+📊 **26.171** stars (+9566 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
@@ -86,7 +86,7 @@ Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enabl
 ### [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-📊 **31.863** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **31.864** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
@@ -102,7 +102,7 @@ Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.314** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **140.318** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -147,7 +147,7 @@ Open source software that helps you create and deploy high-frequency crypto trad
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-📊 **16.902** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
+📊 **16.903** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -192,7 +192,7 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 ### [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor)
 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
 
-📊 **1944** stars | 🔤 Python | 🏷️ core-stack, web3-defi | 🔎 query: "content pipeline llm"
+📊 **1945** stars | 🔤 Python | 🏷️ core-stack, web3-defi | 🔎 query: "content pipeline llm"
 
 ### [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)
 Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf and other IDEs
@@ -201,16 +201,16 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.292 — 4 días — core-stack, frontend
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.294 — 4 días — core-stack, frontend
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.432 — 4 días — general
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.438 — 4 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.169 — 4 días — core-stack
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.842 — 4 días — general
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.171 — 4 días — core-stack
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.843 — 4 días — general
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4676 — 3 días — core-stack
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4929 — 4 días — core-stack
 - [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2575 — 4 días — core-stack, game-dev, frontend
 - [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 4 días — core-stack, game-dev
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.314 — 4 días — core-stack, dev-tools, web3-defi
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.318 — 4 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -228,11 +228,11 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 ## 📈 TRENDING GENERAL (Top 15)
 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.432 (+11.141) — Python
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.368 (+9913) — TypeScript
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.842 (+4835) — Python
-- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.918 (+4315) — Python
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.369 (+9913) — TypeScript
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.843 (+4835) — Python
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.919 (+4315) — Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.693 (+862) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.833 (+495) — Kotlin
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.834 (+495) — Kotlin
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3887 (+408) — Python
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.448 (+292) — TypeScript
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.041 (+265) — C++
@@ -240,4 +240,4 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 784 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T21:48:04.358Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T21:50:16.777Z*
