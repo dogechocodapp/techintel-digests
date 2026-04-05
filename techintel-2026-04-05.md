@@ -15,19 +15,19 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **26.224** stars (+9566 today) | 🔤 Python | 🏷️ core-stack
+📊 **26.227** stars (+9566 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **24.452** stars (+9232 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **24.454** stars (+9232 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **24.973** stars (+4306 today) | 🔤 Python | 🏷️ core-stack
+📊 **24.974** stars (+4306 today) | 🔤 Python | 🏷️ core-stack
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
@@ -62,7 +62,7 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 ### [solanabr/solana-claude](https://github.com/solanabr/solana-claude)
 Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.
 
-📊 **48** stars (+0 today) | 🔤 Shell | 🏷️ core-stack, web3-defi, game-dev, frontend
+📊 **49** stars (+0 today) | 🔤 Shell | 🏷️ core-stack, web3-defi, game-dev, frontend
 🔥 **RISING STAR** — 3 días trending
 
 ### [xintaofei/codeg](https://github.com/xintaofei/codeg)
@@ -86,7 +86,7 @@ Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enabl
 ### [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-📊 **31.885** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **31.887** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
@@ -102,7 +102,7 @@ Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.387** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **140.388** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -117,7 +117,7 @@ Free, open source crypto trading bot
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-📊 **45.547** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **45.548** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -187,7 +187,7 @@ Claude Code skills that build complete Godot 4 projects from a game description
 ### [open-compress/claw-compactor](https://github.com/open-compress/claw-compactor)
 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.
 
-📊 **1947** stars | 🔤 Python | 🏷️ core-stack, web3-defi | 🔎 query: "content pipeline llm"
+📊 **1948** stars | 🔤 Python | 🏷️ core-stack, web3-defi | 🔎 query: "content pipeline llm"
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
 AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
@@ -203,14 +203,14 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.331 — 4 días — core-stack, frontend
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.438 — 4 días — general
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.452 — 4 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.224 — 4 días — core-stack
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.454 — 4 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.227 — 4 días — core-stack
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.854 — 4 días — general
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4683 — 3 días — core-stack
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4935 — 4 días — core-stack
 - [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2575 — 4 días — core-stack, game-dev, frontend
 - [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 4 días — core-stack, game-dev
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.387 — 4 días — core-stack, dev-tools, web3-defi
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.388 — 4 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -228,11 +228,11 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 ## 📈 TRENDING GENERAL (Top 15)
 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.438 (+11.141) — Python
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.433 (+9913) — TypeScript
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.436 (+9913) — TypeScript
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.854 (+4835) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.928 (+4315) — Python
-- [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.697 (+862) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.861 (+495) — Kotlin
+- [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.698 (+862) — Python
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.863 (+495) — Kotlin
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3897 (+408) — Python
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.468 (+292) — TypeScript
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.051 (+265) — C++
@@ -240,4 +240,4 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 785 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T22:52:23.543Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T22:54:33.173Z*
