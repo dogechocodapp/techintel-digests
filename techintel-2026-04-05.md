@@ -9,7 +9,7 @@
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **20.322** stars (+14.763 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **20.324** stars (+14.763 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 4 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -21,7 +21,7 @@ The agent that grows with you
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **24.449** stars (+9232 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **24.450** stars (+9232 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
@@ -50,7 +50,7 @@ Developer tools for AI crypto agents  🛠️ Build apps with DeFi trading, DEX 
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **30.860** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
+📊 **30.861** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
 🔥 **RISING STAR** — 4 días trending
 
 ### [CoderGamester/mcp-unity](https://github.com/CoderGamester/mcp-unity)
@@ -86,13 +86,13 @@ Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enabl
 ### [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-📊 **31.877** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **31.879** stars (+340 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
 Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
-📊 **4682** stars (+2054 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **4683** stars (+2054 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 3 días trending
 
 ## 🎯 KEYWORD HUNT — Descubrimientos por búsqueda activa
@@ -102,7 +102,7 @@ Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.363** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **140.366** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -127,7 +127,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **30.860** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
+📊 **30.861** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
 
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -201,16 +201,16 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.322 — 4 días — core-stack, frontend
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.436 — 4 días — general
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.449 — 4 días — core-stack
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.324 — 4 días — core-stack, frontend
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.437 — 4 días — general
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.450 — 4 días — core-stack
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.209 — 4 días — core-stack
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.851 — 4 días — general
-- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4682 — 3 días — core-stack
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.852 — 4 días — general
+- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4683 — 3 días — core-stack
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4933 — 4 días — core-stack
 - [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2575 — 4 días — core-stack, game-dev, frontend
 - [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 4 días — core-stack, game-dev
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.363 — 4 días — core-stack, dev-tools, web3-defi
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.366 — 4 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -227,17 +227,17 @@ Model Context Protocol (MCP) plugin to connect with Unity Editor — designed fo
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.436 (+11.141) — Python
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.415 (+9913) — TypeScript
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.851 (+4835) — Python
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.437 (+11.141) — Python
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.418 (+9913) — TypeScript
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.852 (+4835) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.925 (+4315) — Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.696 (+862) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.856 (+495) — Kotlin
-- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3896 (+408) — Python
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.858 (+495) — Kotlin
+- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3897 (+408) — Python
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.465 (+292) — TypeScript
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.049 (+265) — C++
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 1520 (+193) — C++
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 1521 (+193) — C++
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 785 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T22:34:55.722Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-05T22:37:09.367Z*
