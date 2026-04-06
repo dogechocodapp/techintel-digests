@@ -84,7 +84,7 @@ Claude Code skills that build complete Godot 4 projects from a game description
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.555** stars (+0 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
+📊 **140.556** stars (+0 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
 🔥 **RISING STAR** — 5 días trending
 
 ### [KULEEEE/Unity-Agent-For-Claude-Code](https://github.com/KULEEEE/Unity-Agent-For-Claude-Code)
@@ -100,7 +100,7 @@ This is Claude Code Tool for Unity Shader.
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.555** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **140.556** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -150,7 +150,7 @@ A Claude Code plugin that shows what's happening - context usage, active tools, 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-📊 **16.059** stars | 🔤 Python | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **16.060** stars | 🔤 Python | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas)
 A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.
@@ -205,10 +205,10 @@ The leading, most token-efficient MCP server for GitHub source code exploration 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.389 — 5 días — core-stack
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.873 — 5 días — general
 - [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4701 — 4 días — core-stack
-- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4955 — 5 días — core-stack
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4956 — 5 días — core-stack
 - [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2574 — 5 días — core-stack, game-dev, frontend
 - [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 5 días — core-stack, game-dev
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.555 — 5 días — core-stack, dev-tools, web3-defi
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 140.556 — 5 días — core-stack, dev-tools, web3-defi
 
 ## 📈 TRENDING GENERAL (Top 15)
 
@@ -218,11 +218,11 @@ The leading, most token-efficient MCP server for GitHub source code exploration 
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.947 (+4702) — Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.705 (+898) — Python
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3941 (+416) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.981 (+389) — Kotlin
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.982 (+389) — Kotlin
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.519 (+335) — TypeScript
-- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.076 (+287) — C++
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.077 (+287) — C++
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 1576 (+124) — C++
-- [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 785 (+0) — TypeScript
+- [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 786 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-06T01:35:20.450Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-06T01:37:26.337Z*
