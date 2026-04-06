@@ -73,12 +73,12 @@ Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enabl
 ### [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
 AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-📊 **31.911** stars (+355 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **31.912** stars (+355 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 
 ### [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker)
 Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 
-📊 **4692** stars (+2204 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **4693** stars (+2204 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 4 días trending
 
 ### [htdt/godogen](https://github.com/htdt/godogen)
@@ -90,7 +90,7 @@ Claude Code skills that build complete Godot 4 projects from a game description
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.472** stars (+0 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
+📊 **140.473** stars (+0 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi
 🔥 **RISING STAR** — 5 días trending
 
 ## 🎯 KEYWORD HUNT — Descubrimientos por búsqueda activa
@@ -100,7 +100,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **140.472** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **140.473** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -199,30 +199,30 @@ The leading, most token-efficient MCP server for GitHub source code exploration 
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.490 — 3 días — general
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.491 — 3 días — general
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 20.383 — 5 días — core-stack, frontend
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.448 — 5 días — general
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.449 — 5 días — general
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 24.482 — 5 días — core-stack
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 26.293 — 5 días — core-stack
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.864 — 5 días — general
-- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4692 — 4 días — core-stack
+- [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) — ⭐ 4693 — 4 días — core-stack
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) — ⭐ 4944 — 5 días — core-stack
 - [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2574 — 5 días — core-stack, game-dev, frontend
 - [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 5 días — core-stack, game-dev
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.495 (+12.682) — TypeScript
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.448 (+10.543) — Python
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 22.498 (+12.682) — TypeScript
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 36.449 (+10.543) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 79.864 (+5633) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 14.938 (+4702) — Python
 - [roboflow/supervision](https://github.com/roboflow/supervision) — ⭐ 37.702 (+898) — Python
 - [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) — ⭐ 3914 (+416) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.911 (+389) — Kotlin
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.490 (+335) — TypeScript
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 16.912 (+389) — Kotlin
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — ⭐ 441.491 (+335) — TypeScript
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.063 (+287) — C++
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 1548 (+124) — C++
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 1549 (+124) — C++
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 785 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-06T00:17:34.192Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-06T00:19:42.880Z*
