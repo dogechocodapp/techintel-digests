@@ -1,40 +1,46 @@
 # 🔍 TECHINTEL Digest — 2026-04-07
 
-**Repos analizados:** 106 | **Relevantes para tu stack:** 86 | **Rising Stars:** 59 | **Keyword discoveries:** 64
+**Repos analizados:** 89 | **Relevantes para tu stack:** 76 | **Rising Stars:** 70 | **Keyword discoveries:** 64
 
 ---
 
 ## ⭐ RELEVANTES PARA CRYPTO ECONOMÍA
 
-### [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.
+### [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
-📊 **19.033** stars (+19.033 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, web3-defi
-🆕 **NUEVO DESCUBRIMIENTO**
+📊 **18.194** stars (+14.247 today) | 🔤 TypeScript | 🏷️ core-stack, web3-defi
+🔥 **RISING STAR** — 3 días trending
 
-### [santifer/career-ops](https://github.com/santifer/career-ops)
-AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **17.968** stars (+17.968 today) | 🔤 JavaScript | 🏷️ core-stack, frontend
-🆕 **NUEVO DESCUBRIMIENTO**
+📊 **22.348** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
+🔥 **RISING STAR** — 5 días trending
 
-### [safishamsi/graphify](https://github.com/safishamsi/graphify)
-AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
+### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+The agent that grows with you
 
-📊 **6589** stars (+6589 today) | 🔤 Python | 🏷️ core-stack, web3-defi
-🆕 **NUEVO DESCUBRIMIENTO**
+📊 **31.420** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+🔥 **RISING STAR** — 5 días trending
 
-### [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
-"OpenHarness: Open Agent Harness"
+### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+Teams-first Multi-agent orchestration for Claude Code
 
-📊 **7072** stars (+7072 today) | 🔤 Python | 🏷️ core-stack
-🆕 **NUEVO DESCUBRIMIENTO**
+📊 **25.699** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
+🔥 **RISING STAR** — 5 días trending
 
-### [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **5870** stars (+5870 today) | 🔤 Python | 🏷️ core-stack, web3-defi
-🆕 **NUEVO DESCUBRIMIENTO**
+📊 **25.806** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
+🔥 **RISING STAR** — 3 días trending
+
+### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+
+📊 **37.802** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
+🔥 **RISING STAR** — 3 días trending
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
 AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
@@ -42,16 +48,10 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 📊 **1987** stars (+0 today) | 🔤 C# | 🏷️ core-stack, dev-tools, web3-defi, game-dev, frontend
 🔥 **RISING STAR** — 5 días trending
 
-### [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent)
-autonomous harness engineering
-
-📊 **3794** stars (+3794 today) | 🔤 Python | 🏷️ core-stack
-🆕 **NUEVO DESCUBRIMIENTO**
-
 ### [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
-📊 **24.444** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **24.447** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
@@ -103,7 +103,7 @@ Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enabl
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **144.726** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **144.729** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -204,14 +204,14 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.719 — 3 días — general
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2513 — 3 días — general
-- [htdt/godogen](https://github.com/htdt/godogen) — ⭐ 2624 — 5 días — core-stack, game-dev, frontend
-- [sorosora/arcade-statusline](https://github.com/sorosora/arcade-statusline) — ⭐ 74 — 5 días — core-stack, game-dev
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) — ⭐ 144.726 — 5 días — core-stack, dev-tools, web3-defi
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — ⭐ 37.234 — 5 días — core-stack, dev-tools
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) — ⭐ 31.346 — 5 días — core-stack, dev-tools, web3-defi, game-dev
-- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — ⭐ 19.457 — 5 días — core-stack
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) — ⭐ 18.250 — 3 días — core-stack, frontend
-- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) — ⭐ 1987 — 5 días — core-stack, dev-tools, web3-defi, game-dev, frontend
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.194 — 3 días — core-stack, web3-defi
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.146 — 3 días — general
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.420 — 3 días — general
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.348 — 5 días — core-stack, frontend
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.699 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.420 — 5 días — core-stack
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.289 — 5 días — general
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.806 — 3 días — core-stack
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -220,29 +220,27 @@ Claude Code skills that build complete Godot 4 projects from a game description
 - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) — Create Reddit Videos with just✨ one command ✨
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — "DeepTutor: Agent-Native Personalized Learning Assistant"
 - [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin
-- [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) — Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Mode
-- [santifer/career-ops](https://github.com/santifer/career-ops) — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat
-- [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) — "OpenHarness: Open Agent Harness"
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) — AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking
+- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coor
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate b
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) — Here we will keep track of the latest AI Game Development Tools, including LLM, World Model, Agent, 
+- [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) — 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content s
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) — ⭐ 16.184 (+16.184) — Python
-- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) — ⭐ 8154 (+8154) — TypeScript
-- [ultraworkers/claw-code-parity](https://github.com/ultraworkers/claw-code-parity) — ⭐ 6594 (+6594) — Rust
-- [0xGF/boneyard](https://github.com/0xGF/boneyard) — ⭐ 3492 (+3492) — TypeScript
-- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) — ⭐ 2500 (+2500) — Unknown
-- [wquguru/harness-books](https://github.com/wquguru/harness-books) — ⭐ 1213 (+1213) — Python
-- [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) — ⭐ 1194 (+1194) — Unknown
-- [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) — ⭐ 1028 (+1028) — Python
-- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) — ⭐ 908 (+908) — Unknown
-- [fikrikarim/parlor](https://github.com/fikrikarim/parlor) — ⭐ 902 (+902) — HTML
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.719 (+899) — Kotlin
-- [Pika-Labs/Pika-Skills](https://github.com/Pika-Labs/Pika-Skills) — ⭐ 898 (+898) — Python
-- [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) — ⭐ 858 (+858) — Unknown
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7916 (+663) — Python
-- [hilash/cabinet](https://github.com/hilash/cabinet) — ⭐ 613 (+613) — TypeScript
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.146 (+14.396) — TypeScript
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.289 (+8392) — Python
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.285 (+5811) — Python
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.420 (+4241) — Python
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.719 (+2008) — Kotlin
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2513 (+878) — C++
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.256 (+866) — C++
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7919 (+663) — Python
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.595 (+113) — Tree-sitter Query
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 8009 (+42) — Unknown
+- [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 855 (+0) — TypeScript
+- [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 282 (+0) — TypeScript
+- [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T23:24:39.548Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T23:26:54.727Z*
