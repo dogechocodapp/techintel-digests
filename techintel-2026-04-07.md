@@ -15,7 +15,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **29.717** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+📊 **29.725** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
@@ -27,7 +27,7 @@ Teams-first Multi-agent orchestration for Claude Code
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **25.657** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
+📊 **25.658** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 3 días trending
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -103,7 +103,7 @@ Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skill
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **144.005** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **144.010** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -113,7 +113,7 @@ The agent harness performance optimization system. Skills, instincts, memory, se
 ### [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 Free, open source crypto trading bot
 
-📊 **48.454** stars | 🔤 Python | 🏷️ web3-defi | 🔎 query: "crypto trading bot open source"
+📊 **48.455** stars | 🔤 Python | 🏷️ web3-defi | 🔎 query: "crypto trading bot open source"
 
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
@@ -202,15 +202,15 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.377 — 3 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2308 — 3 días — general
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.379 — 3 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2311 — 3 días — general
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 24.823 — 3 días — general
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.330 — 3 días — general
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.010 — 5 días — core-stack, frontend
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.478 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 29.717 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 29.725 — 5 días — core-stack
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.143 — 5 días — general
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.657 — 3 días — core-stack
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.658 — 3 días — core-stack
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — ⭐ 37.726 — 3 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
@@ -232,16 +232,16 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.143 (+8392) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.188 (+5811) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.330 (+4241) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.377 (+2008) — Kotlin
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2308 (+878) — C++
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.379 (+2008) — Kotlin
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2311 (+878) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.226 (+866) — C++
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7662 (+663) — Python
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.577 (+113) — Tree-sitter Query
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7736 (+42) — Unknown
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7664 (+663) — Python
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.578 (+113) — Tree-sitter Query
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7737 (+42) — Unknown
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 793 (+0) — TypeScript
 - [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 282 (+0) — TypeScript
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 - [hott460/polymarket-trading-bot-copytrading-arbitrage](https://github.com/hott460/polymarket-trading-bot-copytrading-arbitrage) — ⭐ 80 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T12:27:59.173Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T12:30:10.708Z*
