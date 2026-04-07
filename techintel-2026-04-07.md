@@ -9,13 +9,13 @@
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **22.065** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **22.067** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 5 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **29.956** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+📊 **29.961** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
@@ -27,13 +27,13 @@ Teams-first Multi-agent orchestration for Claude Code
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **25.674** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
+📊 **25.676** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 3 días trending
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
-📊 **37.731** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
+📊 **37.732** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
 🔥 **RISING STAR** — 3 días trending
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
@@ -45,13 +45,13 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 ### [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
-📊 **24.113** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **24.116** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.256** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
+📊 **31.258** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
 🔥 **RISING STAR** — 5 días trending
 
 ### [solanabr/solana-claude](https://github.com/solanabr/solana-claude)
@@ -103,12 +103,12 @@ Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skill
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **144.111** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **144.115** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-📊 **55.191** stars | 🔤 Python | 🏷️ core-stack, dev-tools, content-automation | 🔎 query: "tiktok automation ai"
+📊 **55.192** stars | 🔤 Python | 🏷️ core-stack, dev-tools, content-automation | 🔎 query: "tiktok automation ai"
 
 ### [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 Free, open source crypto trading bot
@@ -128,7 +128,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.256** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
+📊 **31.258** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
 
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -148,7 +148,7 @@ Open source software that helps you create and deploy high-frequency crypto trad
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-📊 **17.424** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
+📊 **17.425** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -203,15 +203,15 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 ## 🔥 RISING STARS (3+ días en trending)
 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.412 — 3 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2332 — 3 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2334 — 3 días — general
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 24.866 — 3 días — general
-- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.341 — 3 días — general
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.065 — 5 días — core-stack, frontend
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.342 — 3 días — general
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.067 — 5 días — core-stack, frontend
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.509 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 29.956 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 29.961 — 5 días — core-stack
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.165 — 5 días — general
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.674 — 3 días — core-stack
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — ⭐ 37.731 — 3 días — core-stack, dev-tools, web3-defi
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.676 — 3 días — core-stack
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — ⭐ 37.732 — 3 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -231,11 +231,11 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 24.866 (+14.396) — TypeScript
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.165 (+8392) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.200 (+5811) — Python
-- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.341 (+4241) — Python
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.342 (+4241) — Python
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.412 (+2008) — Kotlin
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2332 (+878) — C++
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2334 (+878) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.231 (+866) — C++
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7693 (+663) — Python
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7695 (+663) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.581 (+113) — Tree-sitter Query
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7773 (+42) — Unknown
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 793 (+0) — TypeScript
@@ -244,4 +244,4 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 - [hott460/polymarket-trading-bot-copytrading-arbitrage](https://github.com/hott460/polymarket-trading-bot-copytrading-arbitrage) — ⭐ 80 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T13:34:58.143Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T13:37:14.874Z*
