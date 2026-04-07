@@ -9,25 +9,25 @@
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **22.250** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **22.251** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 5 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **30.996** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+📊 **30.998** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **25.622** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **25.623** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **25.736** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
+📊 **25.737** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 3 días trending
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -45,13 +45,13 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 ### [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
-📊 **24.311** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
+📊 **24.315** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
 🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.304** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
+📊 **31.305** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
 🔥 **RISING STAR** — 5 días trending
 
 ### [solanabr/solana-claude](https://github.com/solanabr/solana-claude)
@@ -128,7 +128,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.304** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
+📊 **31.305** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
 
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -202,15 +202,15 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.597 — 3 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2429 — 3 días — general
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.013 — 3 días — general
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.599 — 3 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2430 — 3 días — general
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.015 — 3 días — general
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.376 — 3 días — general
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.250 — 5 días — core-stack, frontend
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.622 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 30.996 — 5 días — core-stack
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.249 — 5 días — general
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.736 — 3 días — core-stack
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.251 — 5 días — core-stack, frontend
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.623 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 30.998 — 5 días — core-stack
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.250 — 5 días — general
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.737 — 3 días — core-stack
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) — ⭐ 37.770 — 3 días — core-stack, dev-tools, web3-defi
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
@@ -228,19 +228,19 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.013 (+14.396) — TypeScript
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.249 (+8392) — Python
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.230 (+5811) — Python
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.015 (+14.396) — TypeScript
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.250 (+8392) — Python
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.232 (+5811) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.376 (+4241) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.597 (+2008) — Kotlin
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2429 (+878) — C++
-- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.239 (+866) — C++
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.599 (+2008) — Kotlin
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2430 (+878) — C++
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.241 (+866) — C++
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7801 (+663) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.586 (+113) — Tree-sitter Query
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7902 (+42) — Unknown
-- [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 795 (+0) — TypeScript
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7904 (+42) — Unknown
+- [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 819 (+0) — TypeScript
 - [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 281 (+0) — TypeScript
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T18:03:39.336Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T18:05:55.387Z*
