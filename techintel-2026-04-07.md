@@ -21,7 +21,7 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **31.335** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+📊 **31.336** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
@@ -39,7 +39,7 @@ Open Source AI Platform - AI Chat with advanced features that works with every L
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
-📊 **37.801** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
+📊 **37.802** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
 🔥 **RISING STAR** — 3 días trending
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
@@ -118,7 +118,7 @@ Free, open source crypto trading bot
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-📊 **46.105** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **46.107** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -202,14 +202,14 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.707 — 3 días — general
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.709 — 3 días — general
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2502 — 3 días — general
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.181 — 3 días — core-stack, web3-defi
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.120 — 3 días — general
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.121 — 3 días — general
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.418 — 3 días — general
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.326 — 5 días — core-stack, frontend
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.684 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.335 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.336 — 5 días — core-stack
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.279 — 5 días — general
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.795 — 3 días — core-stack
 
@@ -228,19 +228,19 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.120 (+14.396) — TypeScript
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.121 (+14.396) — TypeScript
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.279 (+8392) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.274 (+5811) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.418 (+4241) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.707 (+2008) — Kotlin
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.709 (+2008) — Kotlin
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2502 (+878) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.254 (+866) — C++
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7899 (+663) — Python
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7900 (+663) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.595 (+113) — Tree-sitter Query
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7996 (+42) — Unknown
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 855 (+0) — TypeScript
-- [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 281 (+0) — TypeScript
+- [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 282 (+0) — TypeScript
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T22:30:59.999Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T22:33:14.685Z*
