@@ -9,7 +9,7 @@
 ### [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
-📊 **18.150** stars (+14.247 today) | 🔤 TypeScript | 🏷️ core-stack, web3-defi
+📊 **18.151** stars (+14.247 today) | 🔤 TypeScript | 🏷️ core-stack, web3-defi
 🔥 **RISING STAR** — 3 días trending
 
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
@@ -21,19 +21,19 @@ A visual, example-driven guide to Claude Code — from basic concepts to advance
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **31.231** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+📊 **31.232** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **25.660** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **25.661** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
-📊 **25.779** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
+📊 **25.781** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 3 días trending
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
@@ -57,7 +57,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.329** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
+📊 **31.331** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
 🔥 **RISING STAR** — 5 días trending
 
 ### [solanabr/solana-claude](https://github.com/solanabr/solana-claude)
@@ -128,7 +128,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.329** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
+📊 **31.331** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
 
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -202,16 +202,16 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.674 — 3 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2480 — 3 días — general
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.150 — 3 días — core-stack, web3-defi
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.085 — 3 días — general
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.676 — 3 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2482 — 3 días — general
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.151 — 3 días — core-stack, web3-defi
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.086 — 3 días — general
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.404 — 3 días — general
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.304 — 5 días — core-stack, frontend
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.660 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.231 — 5 días — core-stack
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.272 — 5 días — general
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.779 — 3 días — core-stack
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.661 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.232 — 5 días — core-stack
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.273 — 5 días — general
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.781 — 3 días — core-stack
 
 ## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
 
@@ -228,14 +228,14 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.085 (+14.396) — TypeScript
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.272 (+8392) — Python
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.086 (+14.396) — TypeScript
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.273 (+8392) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.260 (+5811) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.404 (+4241) — Python
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.674 (+2008) — Kotlin
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2480 (+878) — C++
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.676 (+2008) — Kotlin
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2482 (+878) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.251 (+866) — C++
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7869 (+663) — Python
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7870 (+663) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.590 (+113) — Tree-sitter Query
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 7972 (+42) — Unknown
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 854 (+0) — TypeScript
@@ -243,4 +243,4 @@ Claude Code skills that build complete Godot 4 projects from a game description
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T21:04:56.138Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T21:07:10.356Z*
