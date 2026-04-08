@@ -1,6 +1,6 @@
 # 🔍 TECHINTEL Digest — 2026-04-07
 
-**Repos analizados:** 89 | **Relevantes para tu stack:** 76 | **Rising Stars:** 70 | **Keyword discoveries:** 64
+**Repos analizados:** 89 | **Relevantes para tu stack:** 76 | **Rising Stars:** 72 | **Keyword discoveries:** 64
 
 ---
 
@@ -9,92 +9,89 @@
 ### [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
-📊 **18.202** stars (+14.247 today) | 🔤 TypeScript | 🏷️ core-stack, web3-defi
-🔥 **RISING STAR** — 3 días trending
+📊 **18.205** stars (+14.247 today) | 🔤 TypeScript | 🏷️ core-stack, web3-defi
+🔥 **RISING STAR** — 4 días trending
 
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **22.359** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
-🔥 **RISING STAR** — 5 días trending
+📊 **22.360** stars (+12.085 today) | 🔤 Python | 🏷️ core-stack, frontend
+🔥 **RISING STAR** — 6 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **31.485** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
-🔥 **RISING STAR** — 5 días trending
+📊 **31.488** stars (+9662 today) | 🔤 Python | 🏷️ core-stack
+🔥 **RISING STAR** — 6 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **25.703** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
-🔥 **RISING STAR** — 5 días trending
+📊 **25.706** stars (+7832 today) | 🔤 TypeScript | 🏷️ core-stack
+🔥 **RISING STAR** — 6 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 Open Source AI Platform - AI Chat with advanced features that works with every LLM
 
 📊 **25.809** stars (+5240 today) | 🔤 Python | 🏷️ core-stack
-🔥 **RISING STAR** — 3 días trending
+🔥 **RISING STAR** — 4 días trending
 
 ### [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
-📊 **37.805** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
-🔥 **RISING STAR** — 3 días trending
+📊 **37.806** stars (+2385 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, web3-defi
+🔥 **RISING STAR** — 4 días trending
 
 ### [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)
 AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. Use cli for quick setup. Efficient token usage, advanced tools. Any C# method may be turned into a tool by a single line. Works with Claude Code, Gemini, Copilot, Cursor and any other absolutely for free.
 
 📊 **1987** stars (+0 today) | 🔤 C# | 🏷️ core-stack, dev-tools, web3-defi, game-dev, frontend
-🔥 **RISING STAR** — 5 días trending
+🔥 **RISING STAR** — 6 días trending
 
 ### [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
 GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 📊 **24.459** stars (+1174 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, frontend
-🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
 📊 **31.352** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
-🔥 **RISING STAR** — 5 días trending
+🔥 **RISING STAR** — 6 días trending
 
 ### [solanabr/solana-claude](https://github.com/solanabr/solana-claude)
 Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile, security and more.
 
 📊 **50** stars (+0 today) | 🔤 Shell | 🏷️ core-stack, web3-defi, game-dev, frontend
-🔥 **RISING STAR** — 5 días trending
+🔥 **RISING STAR** — 6 días trending
 
 ### [xintaofei/codeg](https://github.com/xintaofei/codeg)
 A unified workspace for local AI coding agents (Claude Code, Codex, Gemini CLI, etc.) — desktop app, standalone server, or Docker. Conversation aggregation, git worktree workflows, MCP/Skills management, chat channel integration (Telegram, Lark, iLink), and integrated terminal, all accessible from any browser.
 
 📊 **606** stars (+0 today) | 🔤 TypeScript | 🏷️ core-stack, dev-tools, web3-defi, infra
-🔥 **RISING STAR** — 5 días trending
+🔥 **RISING STAR** — 6 días trending
 
 ### [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools)
 Here we will keep track of the latest AI Game Development Tools, including LLM, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 
 📊 **1130** stars (+0 today) | 🔤 Unknown | 🏷️ core-stack, dev-tools, game-dev, content-automation
-🆕 **NUEVO DESCUBRIMIENTO**
 
 ### [AnkleBreaker-Studio/unity-mcp-server](https://github.com/AnkleBreaker-Studio/unity-mcp-server)
 Unity MCP Server — 268 tools for AI-assisted game development. Connect Claude, Cursor, or any MCP client to Unity Editor & Unity Hub. Scene management, GameObjects, components, builds, profiling, Shader Graph, Amplify, terrain, physics, NavMesh, animation, MPPM multiplayer & more. Free & open source by AnkleBreaker Studio.
 
 📊 **89** stars (+0 today) | 🔤 JavaScript | 🏷️ core-stack, dev-tools, game-dev, frontend
-🔥 **RISING STAR** — 4 días trending
+🔥 **RISING STAR** — 5 días trending
 
 ### [AnkleBreaker-Studio/unity-mcp-plugin](https://github.com/AnkleBreaker-Studio/unity-mcp-plugin)
 Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enables Claude, Cursor & MCP-compatible AI to control Unity Editor with 268 tools: scenes, GameObjects, components, builds, profiling, Shader Graph, Amplify Shader Editor, terrain, physics, NavMesh & more. Free & open source.
 
 📊 **54** stars (+0 today) | 🔤 C# | 🏷️ core-stack, dev-tools, game-dev, frontend
-🔥 **RISING STAR** — 4 días trending
+🔥 **RISING STAR** — 5 días trending
 
 ### [youichi-uda/unity-mcp-pro-plugin](https://github.com/youichi-uda/unity-mcp-pro-plugin)
 147 AI tools for Unity game development via MCP (Model Context Protocol). Connect Claude, Cursor, and AI assistants to your Unity editor.
 
 📊 **32** stars (+0 today) | 🔤 C# | 🏷️ core-stack, dev-tools, game-dev, frontend
-🆕 **NUEVO DESCUBRIMIENTO**
 
 ## 🎯 KEYWORD HUNT — Descubrimientos por búsqueda activa
 
@@ -118,7 +115,7 @@ Free, open source crypto trading bot
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-📊 **46.115** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **46.116** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -148,7 +145,7 @@ Open source software that helps you create and deploy high-frequency crypto trad
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-📊 **17.499** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
+📊 **17.500** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -202,45 +199,32 @@ Claude Code skills that build complete Godot 4 projects from a game description
 
 ## 🔥 RISING STARS (3+ días en trending)
 
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.730 — 3 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2520 — 3 días — general
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.202 — 3 días — core-stack, web3-defi
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.153 — 3 días — general
-- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.421 — 3 días — general
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.359 — 5 días — core-stack, frontend
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.703 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.485 — 5 días — core-stack
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.295 — 5 días — general
-- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.809 — 3 días — core-stack
-
-## 🆕 NUEVOS DESCUBRIMIENTOS HOY (trending)
-
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creat
-- [tobi/qmd](https://github.com/tobi/qmd) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) — Create Reddit Videos with just✨ one command ✨
-- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) — "DeepTutor: Agent-Native Personalized Learning Assistant"
-- [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any busin
-- [antinomyhq/forgecode](https://github.com/antinomyhq/forgecode) — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coor
-- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate b
-- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) — Here we will keep track of the latest AI Game Development Tools, including LLM, World Model, Agent, 
-- [YILS-LIN/short-video-factory](https://github.com/YILS-LIN/short-video-factory) — 一键生成产品营销与泛内容短视频，AI批量自动剪辑，高颜值跨平台桌面端工具 One click generation of product marketing and general content s
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.730 — 4 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2520 — 4 días — general
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.205 — 4 días — core-stack, web3-defi
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.153 — 4 días — general
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.422 — 4 días — general
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.360 — 6 días — core-stack, frontend
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.706 — 6 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 31.488 — 6 días — core-stack
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.295 — 6 días — general
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.809 — 4 días — core-stack
 
 ## 📈 TRENDING GENERAL (Top 15)
 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.153 (+14.396) — TypeScript
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.295 (+8392) — Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.292 (+5811) — Python
-- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.421 (+4241) — Python
+- [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.422 (+4241) — Python
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.730 (+2008) — Kotlin
 - [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2520 (+878) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.258 (+866) — C++
-- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7922 (+663) — Python
+- [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 7923 (+663) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.595 (+113) — Tree-sitter Query
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 8020 (+42) — Unknown
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) — ⭐ 8021 (+42) — Unknown
 - [RobertMarcellos/polymarket-copy-trading-bot](https://github.com/RobertMarcellos/polymarket-copy-trading-bot) — ⭐ 855 (+0) — TypeScript
 - [CrewSX/polymarket-trading-bot](https://github.com/CrewSX/polymarket-trading-bot) — ⭐ 282 (+0) — TypeScript
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-07T23:58:09.445Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-08T00:00:24.651Z*
