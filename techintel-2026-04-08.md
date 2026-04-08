@@ -15,19 +15,19 @@ OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so
 ### [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
-📊 **22.563** stars (+10.745 today) | 🔤 Python | 🏷️ core-stack, frontend
+📊 **22.564** stars (+10.745 today) | 🔤 Python | 🏷️ core-stack, frontend
 🔥 **RISING STAR** — 5 días trending
 
 ### [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 The agent that grows with you
 
-📊 **33.162** stars (+10.487 today) | 🔤 Python | 🏷️ core-stack
+📊 **33.168** stars (+10.487 today) | 🔤 Python | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 Teams-first Multi-agent orchestration for Claude Code
 
-📊 **25.852** stars (+7543 today) | 🔤 TypeScript | 🏷️ core-stack
+📊 **25.853** stars (+7543 today) | 🔤 TypeScript | 🏷️ core-stack
 🔥 **RISING STAR** — 5 días trending
 
 ### [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
@@ -56,7 +56,7 @@ GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.398** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
+📊 **31.399** stars (+0 today) | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev
 🔥 **RISING STAR** — 5 días trending
 
 ### [xintaofei/codeg](https://github.com/xintaofei/codeg)
@@ -100,7 +100,7 @@ Claude Code skills that build complete Godot 4 projects from a game description
 ### [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-📊 **145.191** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
+📊 **145.193** stars | 🔤 JavaScript | 🏷️ core-stack, dev-tools, web3-defi | 🔎 query: "claude code agent skills"
 
 ### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -115,7 +115,7 @@ Free, open source crypto trading bot
 ### [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
-📊 **46.177** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
+📊 **46.179** stars | 🔤 TypeScript | 🏷️ core-stack | 🔎 query: "claude code plugin"
 
 ### [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)
 A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -125,7 +125,7 @@ A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap
 ### [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
 Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.
 
-📊 **31.398** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
+📊 **31.399** stars | 🔤 Python | 🏷️ core-stack, dev-tools, web3-defi, game-dev | 🔎 query: "claude code agent skills"
 
 ### [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
 Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
@@ -145,7 +145,7 @@ Open source software that helps you create and deploy high-frequency crypto trad
 ### [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)
 A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 
-📊 **17.565** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
+📊 **17.566** stars | 🔤 JavaScript | 🏷️ core-stack, content-automation | 🔎 query: "claude code plugin"
 
 ### [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
 Official, Anthropic-managed directory of high quality Claude Code Plugins.
@@ -200,13 +200,13 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 ## 🔥 RISING STARS (3+ días en trending)
 
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.962 — 4 días — general
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2663 — 4 días — general
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2664 — 4 días — general
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) — ⭐ 18.444 — 4 días — core-stack, web3-defi
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.333 — 4 días — general
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.335 — 4 días — general
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.471 — 4 días — general
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.563 — 5 días — core-stack, frontend
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.852 — 5 días — core-stack
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 33.162 — 5 días — core-stack
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) — ⭐ 22.564 — 5 días — core-stack, frontend
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) — ⭐ 25.853 — 5 días — core-stack
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) — ⭐ 33.168 — 5 días — core-stack
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.385 — 5 días — general
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) — ⭐ 25.880 — 4 días — core-stack
 
@@ -216,12 +216,12 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 
 ## 📈 TRENDING GENERAL (Top 15)
 
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.333 (+15.921) — TypeScript
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — ⭐ 25.335 (+15.921) — TypeScript
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) — ⭐ 80.373 (+5167) — Python
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) — ⭐ 37.385 (+5025) — Python
 - [google-research/timesfm](https://github.com/google-research/timesfm) — ⭐ 15.471 (+4137) — Python
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) — ⭐ 18.962 (+2934) — Kotlin
-- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2663 (+1336) — C++
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) — ⭐ 2664 (+1336) — C++
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) — ⭐ 31.281 (+906) — C++
 - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) — ⭐ 8055 (+662) — Python
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) — ⭐ 13.601 (+159) — Tree-sitter Query
@@ -231,4 +231,4 @@ AI Skills, MCP Tools, and CLI for Unity Engine. Full AI develop and test loop. U
 - [harmandhaliwal/polymarket-trading-bot-copytrading](https://github.com/harmandhaliwal/polymarket-trading-bot-copytrading) — ⭐ 104 (+0) — TypeScript
 
 ---
-*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-08T05:05:49.093Z*
+*Generado por TECHINTEL v1.2 — OMEGA System — 2026-04-08T05:08:01.863Z*
